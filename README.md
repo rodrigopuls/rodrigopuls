@@ -2,12 +2,13 @@
 
 Here something about me:
 
-- 🔭 I’m currently working at [pagoufacil.com.br](https://pagoufacil.com.br/) as Senior Developer (.Net Core and Angular)
+- 🔭 I’m currently working at [pagoufacil.com.br](https://pagoufacil.com.br/) as a Senior Developer
 - 🌱 I’m currently learning React and some UI/UX
-- :muscle: I’m specialist in .NET, Architecture and Cloud Native Apps
+- :muscle: I’m specialist in .NET and Angular Apps
 - 💬 Ask me about: Development :)
-- ⚡ Check my repos specially [My Portfolio](https://github.com/rodrigopuls/rodrigopuls.github.io) 
-- 📫 How to reach me: rodrigo.freitas.puls@gmail.com 
+- 💼 Check out [my Portfolio](https://github.com/rodrigopuls/rodrigopuls.github.io) 
+- ⚡ Check out my repos -
+- 💌 If you want to carry out a project with me (or make small talk), don't hesitate to contact me at rodrigo.freitas.puls@gmail.com 
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodrigopuls)](https://github.com/rodrigopuls)

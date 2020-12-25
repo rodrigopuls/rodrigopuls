@@ -7,8 +7,8 @@ Here something about me:
 - :muscle: I’m specialist in .NET and Angular 
 - 💬 Ask me about: Development :)
 - 💼 Check out [my portfolio](https://github.com/rodrigopuls/portfolio) 
-- ⚡ Check out my repos
-- 💌 If you want to carry out a project with me (or make small talk), don't hesitate to contact me at rodrigo.freitas.puls@gmail.com 
+- ⚡ Check out [my repos](https://github.com/rodrigopuls?tab=repositories)
+- 💌 You're more than welcome to contact me at rodrigo.freitas.puls@gmail.com 
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodrigopuls)](https://github.com/rodrigopuls)

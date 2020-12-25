@@ -7,7 +7,7 @@ Here something about me:
 - :muscle: I’m specialist in .NET and Angular Apps
 - 💬 Ask me about: Development :)
 - 💼 Check out [my Portfolio](https://github.com/rodrigopuls/rodrigopuls.github.io) 
-- ⚡ Check out my repos -
+- ⚡ Check out my repos
 - 💌 If you want to carry out a project with me (or make small talk), don't hesitate to contact me at rodrigo.freitas.puls@gmail.com 
 
 #### Follow me on my social networks:

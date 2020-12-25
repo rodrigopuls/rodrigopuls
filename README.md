@@ -4,7 +4,7 @@ Here something about me:
 
 - 🔭 I’m currently working at [pagoufacil.com.br](https://pagoufacil.com.br/) as a Senior Developer
 - 🌱 I’m currently learning React and some UI/UX
-- :muscle: I’m specialist in .NET and Angular Apps
+- :muscle: I’m specialist in .NET and Angular 
 - 💬 Ask me about: Development :)
 - 💼 Check out [my portfolio](https://github.com/rodrigopuls/portfolio) 
 - ⚡ Check out my repos

@@ -6,7 +6,7 @@ Here something about me:
 - 🌱 I’m currently learning React and some UI/UX
 - :muscle: I’m specialist in .NET and Angular 
 - 💬 Ask me about: Development :)
-- 💼 Check out [my portfolio](https://github.com/rodrigopuls/portfolio) 
+- 💼 Check out [my portfolio](https://bit.ly/3ykhlcq) 
 - ⚡ Check out [my repos](https://github.com/rodrigopuls?tab=repositories)
 - 💌 You're more than welcome to contact me at rodrigo.freitas.puls@gmail.com 
 
